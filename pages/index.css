@@ -1,0 +1,15 @@
+@import url(../vendor/normalize.css);
+
+/*Блок main*/
+@import url(../blocks/main/main.css);
+
+/*Блок photoContainer*/
+@import url(../blocks/photoContainer/photoContainer.css);
+@import url(../blocks/photoContainer/__text/photoContainer__text.css);
+
+/*Блок photo-gallery*/
+@import url(../blocks/gallery/gallery.css);
+@import url(../blocks/gallery/__item/gallery__item.css);
+
+/*Блок page*/
+@import url(../blocks/page/page.css);
